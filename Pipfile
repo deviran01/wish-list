@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+django = "*"
+pytest = "*"
+pytest-html = "*"
+pytest-xdist = "*"
+python-json-logger = "*"
+assertpy = "*"
+pre-commit = "*"
 
 [dev-packages]
 
